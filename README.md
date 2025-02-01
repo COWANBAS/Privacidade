@@ -48,8 +48,6 @@ A função original "getUserMedia" é salva em "navigator.mediaDevices.originalG
 
 # CAMERA 
 
-# SCRIPT
-
 "Sobrescrevendo navigator.mediaDevices.getUserMedia"
 
 ![image](https://github.com/user-attachments/assets/8fa3691d-b2cd-4776-8895-5ebb35f6b856)
